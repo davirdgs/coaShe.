@@ -1,0 +1,2 @@
+# coaSHE
+coaSHE is a mentoring and coaching mobile application for women in tech. In our community, women can offer mentoring on certain professional matters for another woman or also search for specific knowledge they want to learn. Our main purpose is to highlight empowering stories of triumphant women who pioneered innovation and make them serve as inspirational role models for other women, so they can identify themselves with the area and achieve high positions in career.
